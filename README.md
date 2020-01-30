@@ -1,5 +1,7 @@
 # Instabot
 
+[![Run on Repl.it](https://repl.it/badge/github/instagrambot/instabot)](https://repl.it/github/instagrambot/instabot)
+
 Free Instagram python bot, [private Instagram API emulator](https://github.com/instagrambot/instabot/tree/master/instabot/api) and a [huge amount of ready-to-use example scripts](https://github.com/instagrambot/instabot/tree/master/examples).
 
 We are the most used Instagram library on GitHub (according to "Used by" counter). 🎉 Join our [Large Telegram community](https://t.me/instabotproject) for more Instagram tricks. 🚀
